@@ -8,6 +8,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
     "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "@aws-amplify/auth": "^5.1.9"
   }
 }
